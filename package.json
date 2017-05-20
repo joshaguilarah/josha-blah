@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "",
+  "author": "Josh Aguilar <j.serafin.aguilar@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "mocha": "^3.4.1"
