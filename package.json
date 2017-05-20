@@ -1,0 +1,14 @@
+{
+  "name": "josha-blah",
+  "version": "0.0.0",
+  "description": "A noop npm package for experimentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.4.1"
+  }
+}
